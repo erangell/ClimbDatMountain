@@ -1,0 +1,11 @@
+{
+      "text": "Say hello to your classmates below!  When ready to begin the class, select one of the learning paths on the right panel."
+    , "rightlink" : "lesson1.html"
+    , "righttarget" : ""
+    , "righttext" : "(Lesson1)"
+
+    , "leftlink" : "beaker://start/"
+    , "lefttarget"  : ""
+    , "lefttext" : "(Exit)"
+
+}

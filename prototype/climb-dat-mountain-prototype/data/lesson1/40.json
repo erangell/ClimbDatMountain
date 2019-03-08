@@ -1,0 +1,10 @@
+{
+      "text": "Test your understanding of the paper (opens in a new window)"
+    
+    , "leftlink"    : "index.html"
+	    , "lefttarget"  : ""
+    	, "lefttext"    : "(Back)"
+	, "rightlink"   : "/lesson1quiz.html"
+    	, "righttarget" : "_blank"
+    	, "righttext": "(Take Quiz Now)"
+}
